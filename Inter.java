@@ -26,13 +26,13 @@ public class Inter{
           System.out.println("i am your papa");
           };
       o.speak();
-        }
         //With anaoymose class
         I O1 = new I() {
             @Override
             public void speak() {
                 System.out.println("i can dance.");
             }
-        };
+        };O1.speak();
+        }
 
     }
